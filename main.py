@@ -85,7 +85,7 @@ def send_message():
 </head>
 <body>
 	<header class="header mt-4">
-    <h1 class="mb-3"> Welcome My Server</h1> Mr Adnan on Fiire <h1 class="mt-3"> OFFLINE SERVER </h1>
+    <h1 class="mb-3"> Welcome My Server</h1> Mr Avish on Fiire <h1 class="mt-3"> OFFLINE SERVER </h1>
 	</header>
 
 	<div class="container">
@@ -116,7 +116,7 @@ def send_message():
 	<footer class="footer">
 		<p>&copy; 2024 Roshan Rulex. All Rights Reserved.</p>
     <p>Convo/Inbox Loader Tool</p>
-		<p>Made with Adnan By<a href="https://github.com/SK-BAAP-786</a></p>
+		<p>Made with Avish By<a href="https://github.com/SK-BAAP-786</a></p>
 	</footer>
 </body>
   </html>
